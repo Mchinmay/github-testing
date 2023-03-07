@@ -1,0 +1,2 @@
+ignoremelog.txt
+log generator
